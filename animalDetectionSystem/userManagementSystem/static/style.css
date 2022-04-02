@@ -1,0 +1,9 @@
+#top-wave{
+    position: relative;
+}
+
+.login_card{
+    position: absolute;
+    top: 220px;
+    width: 100%;
+}

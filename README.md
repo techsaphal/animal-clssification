@@ -1,2 +1,2 @@
 # animal-clssification
-Animal classification using CNN VGG-19
+Animal classification using CNN VGG-18
